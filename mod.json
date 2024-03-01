@@ -1,0 +1,12 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.0.0-beta.1",
+	"gd": {
+		"win": "*",
+		"android": "*"
+	},
+	"id": "thesillydoggo.concurrent_http",
+	"name": "Concurrent HTTP",
+	"developer": "TheSillyDoggo",
+	"description": "Allows Geometry Dash to make more than one web request at a time"
+}
